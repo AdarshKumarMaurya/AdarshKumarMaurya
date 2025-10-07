@@ -3,28 +3,32 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Maurya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms(DSA)**
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
+- 🧠 Exploring **Machine Learning & Full Stack Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Python, Java**
+- 🏆 I regularly solve problems on [LeetCode](https://leetcode.com/u/AdarshKumarMaurya/)
+- 📫 Reach me at **adarsh63930@gmail.com**
 
-- 📝 I regularly solve problems on [https://leetcode.com/u/AdarshKumarMaurya/](https://leetcode.com/u/AdarshKumarMaurya/)
 
-- 💬 Ask me about **Html, Css, Javascript, Python, C and Java**
-
-- 📫 How to reach me **adarsh63930@gmail.com**
-
+<hr>
 <details open>
-<summary>Developer Quote</summary>
+<summary>💡 Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
 </p>
 </details>
+<hr>
+
 
 ### Connect with me:
 <p align="left">
 <a href="https://x.com/Adarsh375270?t=qHTGMhX5ox9gO8AQebnOag&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Adarsh375270?t=qHTGMhX5ox9gO8AQebnOag&s=09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adarsh-kumar-maurya-288793292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-kumar-maurya-288793292" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/adarsh63930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://www.hackerrank.com/profile/adarsh63930" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/adarsh63930" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+</a>
 <a href="https://www.instagram.com/adarsh___108___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adarsh___108___/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@adarsh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/AdarshKumarMaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/AdarshKumarMaurya/" height="30" width="40" /></a>
@@ -41,6 +45,8 @@
     <img src="https://adarshkumarmaurya.github.io/-Portfolio/github_controbuter.svg" alt="Adarsh kr. Maurya" />
 </p>
 
+
+
 # 📊 GitHub Stats:
 <p><img align="center" src="https://adarshkumarmaurya.github.io/-Portfolio/github_stats.svg" alt="Adarsh kr. Maurya" /></p>
 
@@ -54,3 +60,6 @@
 </picture>
 
 ###
+---
+⭐️ From [Adarsh Kumar Maurya](https://github.com/AdarshKumarMaurya)
+

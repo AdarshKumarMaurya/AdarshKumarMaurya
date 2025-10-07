@@ -67,7 +67,6 @@
  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AdarshKumarMaurya/AdarshKumarMaurya/output/pacman-contribution-graph.svg">
 </picture>
 
-AdarshKumarMaurya/AdarshKumarMaurya/
 
 ###
 ---

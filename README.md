@@ -33,7 +33,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/adarsh___108___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adarsh___108___/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@adarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@adarsh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@paramsantbabajaygurudev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@adarsh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/AdarshKumarMaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/AdarshKumarMaurya/" height="30" width="40" /></a>
 </p>
 

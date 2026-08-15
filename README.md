@@ -144,10 +144,7 @@ A web-based system designed to manage blood donors, blood inventory, and adminis
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshKumarMaurya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
+![](https://adarshkumarmaurya.github.io/-Portfolio/github_trophy.svg)
 
 ---
 
